@@ -1,7 +1,7 @@
 shadow_symlink_tree
 ===================
-##Create shadow symlink tree and replacing characters in the filenames.
-##e.g. foo.bar.txt -> foo_bar.txt
+Create shadow symlink tree and replacing characters in the filenames.
+e.g. foo.bar.txt -> foo_bar.txt
 
 
 ##Usage
