@@ -15,7 +15,7 @@ and force creation of the root of the shadow tree if it does not exist
 `shadow_symlink_tree.py /Users/foo/src/ /Users/foo/dest --force`  
 
 and replace . in the filename with _
-userful for making graphite read rrd files that have . in them 
+useful for making graphite read rrd files that have . in them 
 
 **e.g. switch.port.model.rrd -> switch_port_model.rrd**
  
